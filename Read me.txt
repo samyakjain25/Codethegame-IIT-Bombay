@@ -1,0 +1,13 @@
+//Dutta bhau pdf to MCID text
+
+'Commentary_extract.py' will produce Commentary corresponding to time as given in the pdf which is the commentary before the match starts.This script will generate 'Commentary.csv' file.
+
+'Final_PdfToCsv.py' will produce 'Final_CSV.csv' which includes the runs,commentary corresponding to each ball.
+
+'end_of_over.py' will generate 'EOO_Summary.csv' which contains overwise analysis.
+
+'Final_with_sentiment.py' will generate 'Top50Events.csv', which includes final top 50 events selected, and 'Senti_Score.csv' which contains the sentiment score of commentary of each ball.
+
+'score_vs_ball.py' will plot 'runs each ball.png' and 'runs in over.png'
+
+'Word_Cloud.r' will generate 'wordcloud.png'.
